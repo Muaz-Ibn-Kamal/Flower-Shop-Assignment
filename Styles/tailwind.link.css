@@ -1,1 +1,12 @@
-@import "tailwindcss"
+@import "tailwindcss";
+:root{ 
+    --color-navtext : #8987A1;
+}
+
+    .nav{
+        color: var(--color-navtext);
+    }
+    .nav a:hover{
+        color:black;
+        font-weight: bold;
+    }
