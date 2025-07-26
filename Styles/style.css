@@ -20,11 +20,3 @@
     "wdth" 100;
 }
 /* Footer section Design */
-.newslatter{
-  background-image: url(../assets/news-letter-bg.png);
-  /* border: 2px solid black; */
-  height: fit-content;
-  background-size: contain;
-  background-repeat: no-repeat;
-  padding: 80px 0;
-}
