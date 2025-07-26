@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This is the second assignment of Programming Hero (Batch 12), built using **HTML5** and **Tailwind CSS**. The purpose of this project is to practice responsive web design techniques and build modern, mobile-friendly layouts using utility-first CSS framework Tailwind.
+This is the second assignment of Programming Hero (Batch 12), built using **HTML5** and **Tailwind CSS**. The purpose of this project is to practice responsive web design techniques and build modern, mobile-friendly layouts using the  CSS framework Tailwind.
 
 ## 🚀 Live Demo
 
